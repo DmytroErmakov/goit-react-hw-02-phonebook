@@ -14,7 +14,9 @@ export class App extends React.Component {
       { id: 'id-3', name: 'Eden Clements', number: '645-17-79' },
       { id: 'id-4', name: 'Annie Copeland', number: '227-91-26' },
       { id: 'id-5 ', name: 'Michael Silva', number: '645-17-77' },
-      { id: 'id-6 ', name: 'Isaac Instagram', number: '459-12-57' },
+      { id: 'id-6', name: 'Jane Austen', number: '227-91-26' },
+      { id: 'id-7', name: 'Michael Silva', number: '645-17-77' },
+      { id: 'id-8', name: 'Jane Austen', number: '227-91-26' },
     ],
   };
 

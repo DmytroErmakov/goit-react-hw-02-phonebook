@@ -16,7 +16,6 @@ export class App extends React.Component {
       { id: 'id-5 ', name: 'Michael Silva', number: '645-17-77' },
       { id: 'id-6', name: 'Jane Austen', number: '227-91-26' },
       { id: 'id-7', name: 'Michael Silva', number: '645-17-77' },
-      { id: 'id-8', name: 'Jane Austen', number: '227-91-26' },
     ],
   };
 
